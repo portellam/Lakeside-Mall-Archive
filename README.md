@@ -9,7 +9,7 @@ Collection of artists, historians, media, interviews, etc. for Lakeside Mall (St
 [Notes](/NOTES.md) | [To Do List](/TODO.md)
 
 [1]: (https://www.shop-lakesidemall.com/)
-[2]: ([https://www.shop-lakesidemall.com/](https://www.shop-lakesidemall.com/))
+[2]: (https://web.archive.org/web/20010801000000*/https://www.shop-lakesidemall.com/)
 
 ## Table of Contents
 - [1. Why](#1-why)
