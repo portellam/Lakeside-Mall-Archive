@@ -2,11 +2,14 @@
 Collection of artists, historians, media, interviews, etc. for Lakeside Mall (Sterling Heights, MI). Also herein is work tracking for related projects.
 
 ## Links
-[Lakeside Mall website] | [Archive.org]
+[Lakeside Mall website](#1)
+
+[Lakeside Mall website on Archive.org](#2)
+
 [Notes](/NOTES.md) | [To Do List](/TODO.md)
 
-[Lakeside Mall website]: (https://www.shop-lakesidemall.com/)
-[Archive.org]: ([https://www.shop-lakesidemall.com/](https://www.shop-lakesidemall.com/))
+[1]: (https://www.shop-lakesidemall.com/)
+[2]: ([https://www.shop-lakesidemall.com/](https://www.shop-lakesidemall.com/))
 
 ## Table of Contents
 - [1. Why](#1-why)
