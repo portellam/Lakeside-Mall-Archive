@@ -2,67 +2,101 @@
 Collection of artists, historians, media, interviews, etc. for Lakeside Mall (Sterling Heights, MI). Also herein is work tracking for related projects.
 
 ## Links
+[Lakeside Mall website] | [Archive.org]
 [Notes](/NOTES.md) | [To Do List](/TODO.md)
+
+[Lakeside Mall website]: (https://www.shop-lakesidemall.com/)
+[Archive.org]: ([https://www.shop-lakesidemall.com/](https://www.shop-lakesidemall.com/))
 
 ## Table of Contents
 - [1. Why](#1-why)
 - [2. Archives and Fileshares](#2-archives-and-fileshares)
 - [3. Articles](#3-articles)
-  - 3.b. News
-  - 3.c. Other
-- [4. Media](#4-media)
-- - 3. Articles
-  - 3.a. Blogs
-
-- 4. Media
-  - 4.a. Audio
-  - 4.b. Photos
-  - 4.c. Videos
-  - 4.d. Other
-- 5. People to Follow
-  - 5.a. Instagram
-  - 5.b. YouTube Channels
-  - 5.c. Other
-- 6. Projects
-- [5. People to Follow](#5-people-to-follow)
-- [6. Projects](#6-projects)
-- [7. Miscellaneous](#7-miscellaneous)
-- [8. Contributors](#8-contributors)
-- [9. Contact](#contact)
+  - [3.a. Blogs](#3a-blogs)
+  - [3.b. News](#3b-news)
+  - [3.c. Other](#3c-other)
+- [4. Events](#4-events)
+- [5. Media](#5-media)
+  - [5.a. Audio](#5a-audio)
+  - [5.b. Photos](#5b-photos)
+  - [5.c. Videos](#5c-videos)
+  - [5.d. Other](#5d-other)
+- [6. People to Follow](#6-people-to-follow)
+  - [6.a. Instagram](#6a-instagram)
+  - [6.b. YouTube Channels](#6b-youtube-channels)
+  - [6.c. Other](#6c-other)
+- [7. Projects](#7-projects)
+- [8. Websites](#8-websites)
+- [9. Contributors](#9-contributors)
+- [10. Contact](#10-contact)
 
 ## Contents
 ### 1. Why
-lorem ipsum
+Please come back again when more information is added!
 
 ### 2. Archives and Fileshares
-lorem ipsum
+[comment]: <> (make cloud account to host own files)
+[comment]: <> (find others' shares)
 
 ### 3. Articles
-lorem ipsum
+#### 3.a. Blogs
+[comment]: <> (find blogs)
+Please come back again when more information is added!
 
-### 3. Events
+#### 3.b. News
+[comment]: <> (look to local news)
+Please come back again when more information is added!
+
+#### 3.c. Other
+Please come back again when more information is added!
+
+### 4. Events
 Past, present and future events related to the Lakeside Mall.
 
-example
+[comment]: <> (title, kind, year-month-day, link)
+[comment]: <> (add details)
+[comment]: <> (funtime cruzers)
 
-### 4. Media
+Please come back again when more information is added!
+
+### 5. Media
+Please come back again when more information is added!
+
 #### 5.a. Audio
+Please come back again when more information is added!
+
 #### 5.b. Photos
+Please come back again when more information is added!
+
 #### 5.b. Video
+Please come back again when more information is added!
 
-### 5. People to Follow
-#### 5.a. Instagram
-#### 5.b. YouTube
+### 6. People to Follow
+Please come back again when more information is added!
 
-### 6. Projects
-lorem ipsum
+#### 6.a. Instagram
+Please come back again when more information is added!
 
-### 7. Miscellaneous
-lorem ipsum
+#### 6.b. YouTube
+Please come back again when more information is added!
 
-### 8. Contributors
+### 7. Projects
+Please come back again when more information is added!
+
+### 8. Websites
+Please come back again when more information is added!
+
+### 9. Contributors
 | Privilege | Name | Contacts |
 | :-: | - | - |
-| Author| Alex Portell | [GitHub](https://github.com/portellam)
+| Author| Alex Portell | [GitHub](https://github.com/portellam) |
 
-### 9. Contact
+### 10. Contact
+Please come back again when more information is added!
+
+### TODO
+[comment]: <> (add more TODO)
+- [ ] create `.MD` files for dedicated categories with TMI.
+- [ ] add relative links.
+- [ ] add description to each category.
+- [ ] add honorable mentions.
