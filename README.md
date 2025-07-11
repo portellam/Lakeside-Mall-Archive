@@ -8,9 +8,10 @@ We're **creating** a documentary about Michigan malls. We'd **love** your help.
 
 ## Table of Contents
 - [1. Why](#1-why)
-- [2. How to Navigate]
-- [9. Contributors](#9-contributors)
-- [10. Contact](#10-contact)
+- [2. How to Navigate](#2-how-to-navigate)
+- [3. Disclaimer](#3-disclaimer)
+- [4. Contributors](#4-contributors)
+- [5. Contact](#5-contact)
 
 ## Contents
 
