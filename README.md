@@ -2,7 +2,7 @@
 <br>
 
 
-# Lakeside Mall Archive
+# Project Lakeside Mall
 
 We're **creating** a documentary about Michigan malls. We'd **love** your help.
 #### View this repository on [Codeberg][01] or [GitHub][02].
