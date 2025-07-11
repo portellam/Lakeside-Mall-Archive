@@ -1,3 +1,5 @@
+<img align="left" width="100" height="100" src="./images/logo_transparent.png"/>
+<br>
 # Lakeside Mall Archive
 
 We're **creating** a documentary about Michigan malls. We'd **love** your help.
@@ -47,4 +49,4 @@ If you wish to contribute, contact us via email or any of our socials. See [5. C
 | :-------: | ------------ | -------------------------------------- |
 |  Author   | Alex Portell | [GitHub](https://github.com/portellam) |
 ### 5. Contact
-For our latest methods of contact, please see our [website](www.projectlakesidemall.com).
+For our latest methods of contact, please see our [website](http://www.projectlakesidemall.com).
