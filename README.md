@@ -1,7 +1,6 @@
 <img align="left" width="100" height="100" src="./images/logo_transparent.png"/>
 <br>
 
-
 # Project Lakeside Mall
 
 We're **creating** a documentary about Michigan malls. We'd **love** your help.
