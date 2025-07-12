@@ -27,8 +27,8 @@ To download this repository and it's contents:
 - if viewing on GitHub, [click here][21].
 - if viewing on Codeberg, [click here][22].
 
-[21]: https://codeberg.org/portellam/project-lakeside-mall/releases/latest
-[22]: https://github.com/portellam/project-lakeside-mall/releases/latest
+[21]: https://github.com/portellam/project-lakeside-mall/releases/latest
+[22]: https://codeberg.org/portellam/project-lakeside-mall/releases/latest
 
 ### 3. How to Navigate
 Folders are ordered from short-term work, to long-term and archived work.
